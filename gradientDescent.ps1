@@ -5,7 +5,7 @@ cls
 $theta0 = 1
 $theta1 = 1
 
-$alpha = 0.001
+$alpha = 0.0088
 
 $sumTheta0 = 0
 $sumTheta1 = 0
